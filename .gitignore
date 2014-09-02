@@ -21,3 +21,5 @@ ompiled Object files
 *.exe
 *.out
 *.app
+# if you use gedit
+*~
